@@ -1,0 +1,1 @@
+Built a recipe app with a search bar to search for recipes. It displays recipe cards, which can be opened to show ingredients and preparation steps. The app was developed using HTML, CSS, and JavaScript.
